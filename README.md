@@ -96,3 +96,4 @@ Checks: `npm run test:builder --prefix frontend`, `npm run test:render --prefix 
 
 Use **Upload resume** in Resume Builder to import a text-based PDF or DOCX (up to 10 MB and 30 PDF pages). Extraction runs locally in Python. The result is saved as a new editable draft; existing saved resumes are preserved. Import recognizes common contact information, links, section headings, dated entries, education, and bullets. Review the grouping before exporting: multi-column or unusual layouts may need corrections. The original extracted text is retained under **View extracted text**. Scanned PDFs need OCR first; older `.doc` files must be converted to `.docx`. Imported resumes use the builder’s default formatting rather than replicating the source design.
 # Apply-Better
+# Apply-Better
