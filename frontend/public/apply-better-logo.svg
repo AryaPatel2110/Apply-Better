@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" fill="none"><title>Apply Better</title><g stroke-linejoin="round">
+<!-- Faceted mortarboard -->
+<path fill="#002050" d="M80 140 300 40 520 140 520 153 300 250 80 153Z"/>
+<path fill="#1160b7" d="m80 140 220-100 220 100-220 92Z"/>
+<path fill="#002050" d="m185 92 115-52-69 75Z"/>
+<path fill="#174b7d" d="m80 140 105-48 46 23Z"/>
+<path fill="#1160b7" d="m231 115 69-75v82l-26 13Z"/>
+<path fill="#b34419" d="m300 40 58 66-58 29Z"/>
+<path fill="#1160b7" d="m300 40 105 47-47 19Z"/>
+<path fill="#b34419" d="m358 106 47-19 115 53Z"/>
+<path fill="#943412" d="m300 135 58-29 162 34Z"/>
+<path fill="#d24726" d="m80 140 151-25 69 20-50 36Z"/>
+<path fill="#943412" d="m80 140 220-5-50 36Z"/>
+<path fill="#12385f" d="m80 140 170 31 50 61Z"/>
+<path fill="#b34419" d="m250 171 50-36v97Z"/>
+<path fill="#1160b7" d="m300 135 220 5-54 22-166 70Z"/>
+<path fill="#b34419" d="m300 232 58-59 80 1Z"/>
+<path fill="#002050" d="m300 232 138-58 28-12Z"/>
+<!-- Cap body with a white separation beneath the board -->
+<path fill="#002050" d="m176 205 124 55 124-55v68l-124 59-124-59Z"/>
+<path fill="#12385f" d="m176 205 42 34-42 34Z"/>
+<path fill="#943412" d="m176 273 42-34 82 93Z"/>
+<path fill="#1160b7" d="m218 239 82 39v54Z"/>
+<path fill="#174b7d" d="m218 239 82 21v18Z"/>
+<path fill="#12385f" d="m300 278 82-36-82 90Z"/>
+<path fill="#943412" d="m300 332 82-90 42 31Z"/>
+<path fill="#b34419" d="m382 242 42-37v68Z"/>
+<path fill="#943412" d="m382 223 42-18v20l-42 17Z"/>
+<!-- Center button, cord, and faceted tassel -->
+<path d="m300 135 173 34v45" fill="none" stroke="#002050" stroke-width="11"/>
+<path fill="#002050" d="m272 135 28-13 23 12-23 15Z"/>
+<path fill="#174b7d" d="m272 135 28-13v27Z"/>
+<path fill="#1160b7" d="m473 207-16 16 8 20 8-1Z"/>
+<path fill="#b34419" d="m473 207 17 16-9 20-8-1Z"/>
+<path fill="#943412" d="m473 229 17-6-9 20-8-1Z"/>
+<path fill="#12385f" d="m465 243-18 72 12 11 14-84Z"/>
+<path fill="#1160b7" d="m473 242-14 84 14 18Z"/>
+<path fill="#b34419" d="m473 242 14 85-14 17Z"/>
+<path fill="#943412" d="m481 243 17 67-5 9-20-77Z"/>
+</g><text x="300" y="411" text-anchor="middle" fill="#002050" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="750" letter-spacing="-2.5">Apply Better</text></svg>

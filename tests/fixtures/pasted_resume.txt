@@ -1,0 +1,67 @@
+Arya Patel
+Chicago, IL | +1 (312) 284-9308 | aryajpatel83@gmail.com
+LinkedIn: linkedin.com/in/aryapatel21 | GitHub: github.com/AryaPatel2110 | Portfolio: patelarya.com
+
+SUMMARY
+Data scientist with an M.S. in Data Science (Illinois Institute of Technology, 3.9 GPA) and experience in regulated-data and financial analytics. I use SQL, Python, and statistical experimentation to turn ambiguous business questions into clear recommendations. At LabelMaster, I designed and analyzed a 26K-account A/B test that led sales to launch a feature to all eligible accounts. I am seeking a Summer 2027 internship.
+
+EDUCATION
+Illinois Institute of Technology | Master of Science, Data Science | May 2026 | GPA: 3.9/4.0
+Gujarat Technological University | Bachelor of Engineering, Information Technology | May 2024 | GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Data Scientist Intern | LabelMaster | Chicago, IL | Jan 2026 – May 2026
+
+Designed a 26K-account A/B test of SKU bundle recommendations, with margin guardrails, to measure changes in buying behavior. The test showed a statistically significant $3 per-order lift, and sales launched the feature to all eligible accounts.
+
+Partnered with the sales team on a collaborative filtering model that pairs DOT hazmat classes with SKU bundles. It found cross-sell gaps in 83.6% of 26K sites and turned them into bundle recommendations.
+
+Built a PostgreSQL pipeline using CTEs, multi-condition joins, and ROW_NUMBER deduplication across EPA, OSHA, RCRA, and DOT datasets. It produced a validated 26K+ master dataset for sales white-space analysis.
+
+Built Python LLM workflows for hazmat profiling and site enrichment across 26K+ industrial sites, which eliminated about 20 hours of manual research per month.
+
+Backtested LSTM and XGBoost demand forecasts across eight departments, using WAPE and department-level error analysis. Accuracy improved 13.1 percentage points over baseline for 22-month planning.
+
+Data Scientist Intern | Shoptaki | Staten Island, NY | May 2025 – Aug 2025
+
+Built an ELT pipeline that loads OHLCV data via API into Parquet and transforms it in Snowflake SQL, with schema and OHLC invariant checks for data quality. It cut storage 70% and supported reliable backtesting.
+
+Developed asynchronous trading bots on the Interactive Brokers API, improving concurrent trade throughput 45% and keeping average execution latency under 150 ms. Improved reliability with stronger exception handling and structured logging.
+
+Coordinated sprint planning, code reviews, and mentoring across four interns, raising sprint completion 30%.
+
+Data Scientist | Algobazar | Gujarat, India | Jul 2022 – Aug 2024
+
+Presented backtest results to my manager (9.5% return, 65.5% win rate) and explained why moving-average crossovers outperformed ML signals in some market regimes. This secured approval for continued strategy testing.
+
+Engineered 30 indicator features with SQL window functions and rolling aggregations in Athena over S3, turning 29K daily price records across 16 equities into validated modeling datasets.
+
+Trained TensorFlow MLP classifiers in SageMaker to predict five-day long/short signals. I benchmarked them against a logistic regression baseline using chronological splits to prevent look-ahead leakage.
+
+Backtested ML, moving-average, and breakout strategies in Backtrader on a $5M simulated portfolio, tuning with SageMaker Automatic Model Tuning.
+
+Containerized Spark ML Random Forest VWAP forecasting models with Docker and deployed Flask inference APIs on AWS ECS, cutting deployment time 65%.
+
+PROJECTS
+E-Commerce Funnel Analysis & A/B Experimentation | Python, SQL, statsmodels
+
+Diagnosed cart abandonment (62.5%) by building SQL funnels, cohorts, and retention segments across 4.3M GA4 events and 270K users, and gave product prioritization recommendations.
+
+Designed an A/B test for a checkout nudge. Power analysis (80% power, α=0.05) sized the test at 3,269 users. I defined guardrail metrics and SRM checks and projected about $3,900 in monthly incremental revenue.
+
+CardShield | Python, scikit-learn, FastAPI, Docker
+
+Built a tuned Random Forest to detect fraud in 6.3M transactions, raising recall from 79% to 90% with SMOTE and stratified cross-validation.
+
+Deployed it as a FastAPI and Kafka streaming service with logging and health monitoring, so operations teams could review flagged transactions.
+
+SKILLS
+Languages: Python, SQL, R
+
+Statistics and experimentation: A/B testing, hypothesis testing, regression, power analysis, guardrail metrics, SRM checks
+
+Machine learning: scikit-learn, XGBoost, TensorFlow, PyTorch, LSTM, Random Forest, feature engineering, model evaluation
+
+Data and visualization: Pandas, NumPy, PySpark, PostgreSQL, Snowflake, Parquet, Tableau, Power BI, Matplotlib, Seaborn
+
+Cloud and tools: AWS (SageMaker, ECS, ECR, Kinesis), Kafka, Docker, Git/GitHub

@@ -1,0 +1,49 @@
+You are an ATS optimization specialist who understands how modern AI-powered screening systems (Workday, Greenhouse, Lever with AI add-ons) evaluate resumes in 2026.
+
+IMPORTANT CONTEXT: Modern ATS increasingly uses LLM-based semantic analysis, not just keyword matching. They evaluate narrative coherence, transferable skill inference, and contextual alignment — not keyword density alone. Stuffing keywords reads as manipulation and can hurt ranking.
+
+INPUT: 
+
+Resume Draft : [Resume]
+
+Job Description: [JD]
+
+NOTE ON VAGUE JDs: If the job description is generic, poorly written, or uses mostly boilerplate language, don't rely on it at face value. Instead, infer the role's real priorities from: the job title, the seniority level, the company stage (startup vs. enterprise), and the industry. Optimize against those inferred priorities, not just the literal JD text.
+
+NOTE ON optimization: Never change overall format and actionverb of the bullet point.
+
+ANALYZE AND OPTIMIZE IN THIS ORDER:
+
+1. SEMANTIC ALIGNMENT CHECK
+   - Does my resume tell a coherent career story that logically leads to this target role?
+   - Would an AI reading this infer I'm a natural fit, or does the narrative feel forced or disconnected?
+   - Are there unexplained jumps or gaps that an AI might penalize?
+   - Flag 2-3 specific bullets or sections that are weakest in semantic alignment and rewrite them.
+
+2. KEYWORD INTEGRATION (Secondary to semantic alignment)
+   - Identify the top 10-15 keywords/phrases from the JD (or inferred priorities) that should appear naturally
+   - For each: note whether it's present, missing, or present but in a weak position (buried in an old role, for example)
+   - Integrate missing keywords ONLY where they fit naturally. Never stuff.
+
+3. FORMATTING & PARSING CHECK
+   - Flag any formatting that breaks ATS parsing: tables, columns, text boxes, headers/footers, graphics, icons
+   - Confirm section headers use standard labels (Work Experience, Education, Skills — not "Where I've Been" or "What I Do")
+   - Check that dates are in consistent, parseable format (Month Year or MM/YYYY — not "a few years ago" or "current")
+   - Confirm LinkedIn URL is present in the contact section
+
+4. MATCH SCORE
+   Rate the resume against this specific JD on a 1-10 scale, broken down as:
+   - Semantic fit (does the narrative make sense for this role?): X/10
+   - Keyword coverage (are the right terms present naturally?): X/10
+   - Formatting (will it parse cleanly?): X/10
+   - Overall: X/10
+
+OUTPUT FORMAT:
+[Revised resume with all optimizations applied]
+
+CHANGES MADE:
+| What changed | Why | Where |
+|---|---|---|
+| [Specific change] | [Reason] | [Section/bullet] |
+
+MATCH SCORE SUMMARY: [Scores + one sentence on the single biggest remaining risk]
